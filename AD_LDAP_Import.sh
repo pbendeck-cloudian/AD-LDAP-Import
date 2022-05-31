@@ -10,7 +10,7 @@ CMC=$(grep cmc_domain $STAGING_DIR/CloudianInstallConfiguration.txt | cut -d'=' 
 echo "######################################################################################"
 echo "# This is a script to input all the required variables to import an SSL certificate  #"
 echo "#                                                                                    #"
-echo "# Phil Bendeck | Cloudian Solution Architect, Strategic Alliances ©                  #"
+echo "# Phil Bendeck | Cloudian Solutions Architect, Strategic Alliances ©                 #"
 echo "#                                                                                    #"
 echo "######################################################################################"
 echo
